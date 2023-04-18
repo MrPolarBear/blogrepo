@@ -12,15 +12,13 @@ After so many botched interviews, I essentially gave up. I said ‘well guess i�
 
 I tutored k-8th grade mathematics for gifted and struggling kids, and surprisingly I loved it! To encourage those interested in STEM to pursue their dreams, and to help those struggling to understand was a fulfilling job, and this gave me an idea to pursue becoming a high school math teacher. I figured my brain is sadly still zoomer humor, deep fried memes still make me laugh, so the teaching field can’t be that bad for me right? -insert ‘How do ya do, fellow kids’ meme-
 
-***ENTER HELL***
+# ***ENTER HELL***
 
 Man, I was incredibly WRONG on my perception of teaching, being a teacher truly is one of the most difficult things I have ever done, and I am walking away with an absolute massive amount of respect for those who are teachers.
 
-The absolute DISRESPECT in the classroom is astonishing, and the education system for those who don’t do well is an absolute joke.
+The absolute DISRESPECT in the classroom is astonishing, and the work required and verbal beratement vs the pay is, for lack of better words, bullshit.
 
-There were really 2 things that broke the straw on my back. First was the structure of classes the Freshman needed to take in my district; regular algebra, even for those who should not have passed 8th grade math, AND PHYSICS SIMULTANEOUSLY? The physics teacher and I tried to push back, it was so obviously a bad idea. And to be honest the replies were such convoluted dog piss I stopped trying eventually. Watching these kids drag their head across the ground, essentially taking 2 math classes in one day truly made me sad. Of course they hated math, they have to deal with it twice a day with gapped knowledge. Physics, a subject HEAVILY needing understanding in algebra, WHILE taking algebra. I would have loved to slow down, not move on until the kids had a strong base but I had a curriculum that I MUST stick to, and would get dogged on if I fell behind.
-
-The other straw was simply the attitude of kids. I tried my best to :) and keep on teaching while they told me math is nerd shit, why is it even needed, deal with “fUcK YouR hOmeWoRk”, ect… One day, I talked about the potential future of using math and how there are jobs out there who pay well for simply analyzing data. (I was already looking into data analysis anyways to change careers) So one of the kids yell back at me ‘fuck you why don’t you go do that yourself’. 
+The straw that broke my back was unfortunately; the kids. I tried my best to :) and keep on teaching while they told me math is nerd shit, why is it even needed, deal with “fUcK YouR hOmeWoRk”, ect… One day, I talked about the potential future of using math and how there are jobs out there who pay well for simply analyzing data. (I was already looking into data analysis anyways to change careers) So one of the kids yell back at me ‘fuck you why don’t you go do that yourself’. 
 
 You know what.
 
