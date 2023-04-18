@@ -1,10 +1,10 @@
-#How did I end up here??
+# How did I end up here??
 
 I will first have to give a warning to anyone reading; I'm 99% sure I shouldn't have passed beyond 8th grade reading/writing and my writing skills haven’t grown much since then, so I'm sorry if this blog post is a bit too informal for y'alls taste. 
 
 This blog will sort of be like a diary entry, a 'How did I end up here at Flatiron' story, and it all begins post college. I graduated with a dual degree in mathematics and computer science, so you’d imagine with a setup like that getting a job would be easy! And it truly could have been if I wasn’t such a dumb immature bastard growing up. Landing interviews for software engineering was easy, the dual degree must have looked tasty to recruiters, but where it all fell apart was the interviews. 
 
-#My guy how did you mess up so bad with 2 degrees???
+# My guy how did you mess up so bad with 2 degrees???
 
 Looking back, I really shouldn’t have been allowed to get my degree in computer science. I graduated not understanding what an IDE was (absolutely WILD right??), not knowing or understanding the ‘development cycle’, and chose to party and let all that necessary knowledge go in one ear and straight out my ass. At those interviews I got NUKED to the ground. So after each interview I would try to study up on what I shat the bed on, only to get clowned on different concepts on the next interview over and over again. Shit went down so bad I don’t even remember what those questions were.
 
@@ -28,7 +28,7 @@ Fuck you too you’re right, I will.
 
 So I gave my 2 weeks that day and quit :) 
 
-#Conclusion
+# Conclusion
 And now I’m here. I combed through many bootcamps and decided on Flatiron which was accredited to have a great hire rate post graduation, my weakness from before. And I picked data science over data analysis since I had a computer science background and wanted the challenge of creating my own code. 
 
 The blessing from teaching is now I'm not even nervous at all to talk to large crowds. Talking to adults and conveying concepts could NEVER be as bad as what I went through for the past 4 years. The other blessing is a bit more personal; I think teaching has finally matured me. I truly now appreciate the education I have, the knowledge I possess and I finally had the conviction to tell myself; ‘I want more, I can do more with this life, and I finally know what I want to pursue’.  Analyzing data is something I already have been doing for my guild in World of Warcraft and I loved doing it! The things I would have to do as work are already things I enjoy doing on my own. And to boil down complicated ideas to understandable words? I have quite the experience for that.
