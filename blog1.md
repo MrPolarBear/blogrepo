@@ -16,9 +16,9 @@ I tutored k-8th grade mathematics for gifted and struggling kids, and surprising
 
 Man, I was incredibly WRONG on my perception of teaching, being a teacher truly is one of the most difficult things I have ever done, and I am walking away with an absolute massive amount of respect for those who are teachers.
 
-The absolute DISRESPECT in the classroom is astonishing, and the work required and verbal beratement vs the pay is, for lack of better words, bullshit.
+The absolute DISRESPECT in the classroom is astonishing, and the work required and verbal beratement vs the pay is, for lack of better words, bullshit. I thought I had the emotional capacity for these kids and the job, but that tank got ran down real quick.
 
-The straw that broke my back was unfortunately; the kids. I tried my best to :) and keep on teaching while they told me math is nerd shit, why is it even needed, deal with “fUcK YouR hOmeWoRk”, ect… One day, I talked about the potential future of using math and how there are jobs out there who pay well for simply analyzing data. (I was already looking into data analysis anyways to change careers) So one of the kids yell back at me ‘fuck you why don’t you go do that yourself’. 
+The straw that broke my back was unfortunately the kids. I tried my best to :) and continue teaching while they told me math is nerd shit, why is it even needed, deal with “fUcK YouR hOmeWoRk”, ect… One day, I talked about the potential future of using math and how there are jobs out there who pay well for simply analyzing data. (I was already looking into data analysis anyways to change careers) So one of the kids yell back at me ‘fuck you why don’t you go do that yourself’. 
 
 You know what.
 
