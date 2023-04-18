@@ -27,6 +27,8 @@ Fuck you too you’re right, I will.
 So I gave my 2 weeks that day and quit :) 
 
 # Conclusion
+So why a bootcamp in the first place? I have some family members who did the same years ago in a software engineer bootcamp and had great success, so I figured 'hey, I'm about 99% sure I can do the same'. Plus I had absolutely no desire to go back to teaching at all.
+
 And now I’m here. I combed through many bootcamps and decided on Flatiron which was accredited to have a great hire rate post graduation, my weakness from before. And I picked data science over data analysis since I had a computer science background and wanted the challenge of creating my own code. 
 
 The blessing from teaching is now I'm not even nervous at all to talk to large crowds. Talking to adults and conveying concepts could NEVER be as bad as what I went through for the past 4 years. The other blessing is a bit more personal; I think teaching has finally matured me. I truly now appreciate the education I have, the knowledge I possess and I finally had the conviction to tell myself; ‘I want more, I can do more with this life, and I finally know what I want to pursue’.  Analyzing data is something I already have been doing as a kid in Maplestory and I loved it! The things I would have to do as work are already things I enjoy doing on my own. And to boil down complicated ideas to understandable words? I have quite the experience for that.
