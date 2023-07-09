@@ -42,4 +42,4 @@ Obviously leakage = bad, how can I prevent bad?
 
 
 ## Wow thats it?
-Data leakage in data science can happen easily, and ruin your model's prediction and performance easily too. But by understanding what causes data leakage, and how to prevent data leakage, your model will be protected from such blights~ I hope this blog was helpful in understanding data leakage, and don't forget to turn off that sink from now on ;)
+Yep, thats it! Data leakage in data science can happen easily, and ruin your model's prediction and performance easily too. But by understanding what causes data leakage, and how to prevent data leakage, your model will be protected from such blights~ I hope this blog was helpful in understanding data leakage, and don't forget to turn off that sink from now on ;)
